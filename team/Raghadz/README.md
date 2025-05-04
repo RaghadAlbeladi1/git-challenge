@@ -3,8 +3,8 @@
 </p>
    A passionate learner and innovator in the world of technology. I specialize in Health Information Management and Technology, with a focus on creating solutions that improve healthcare systems, especially for elderly individuals and patients. I'm deeply committed to leveraging technology to simplify and enhance people's lives. Whether it's developing health applications or improving the flow of healthcare data, I aim to bridge the gap between complex systems and end-users, making technology more accessible and beneficial for everyone.</h3>
 
-   
 
+   
    
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🌱 I’m currently learning **C in with Holbertonschool in Tuwaiq Academy
